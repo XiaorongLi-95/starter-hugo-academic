@@ -27,7 +27,7 @@ education:
   courses:
     - course: PhD in Mathematics
       institution: Xi'an Jiaotong University
-      year: 2018 - 
+      year: 2018 - Current
     - course: BSc in Information and Computational Science
       institution: Nanjing University of Science and Technology
       year: 2014 - 2018
@@ -43,7 +43,7 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/
-  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack  graduation-cap
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack  
     icon_pack: fas
     link: https://scholar.google.com/citations?user=LyR1Mf4AAAAJ&hl=zh-CN
   - icon: github
@@ -65,7 +65,7 @@ email: ''
 highlight_name: true
 ---
 
-I am currently working toward the Ph.D. degree in the school of mathematics and statistics of Xi'an Jiaotong University. My research interests include continual learning, online learning and image recognition. I have received the Bachelor degree in school of science from Nanjing University of Science and Technology, China, in 2018.
+I am currently working toward the Ph.D. degree in the school of mathematics and statistics of Xi'an Jiaotong University, supervised by (Prof. Zongben Xu)[http://gr.xjtu.edu.cn/web/zbxu] and co-supervised by (Prof. Jian Sun)[https://gr.xjtu.edu.cn/zh/web/jiansun/main_chinese]. My research interests include continual learning, online learning and image recognition. I received the Bachelor degree in school of science from Nanjing University of Science and Technology, China, in 2018.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
