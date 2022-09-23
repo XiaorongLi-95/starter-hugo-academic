@@ -65,7 +65,7 @@ email: ''
 highlight_name: true
 ---
 
-I am currently working toward the Ph.D. degree in the school of mathematics and statistics of Xi'an Jiaotong University, supervised by (Prof. Zongben Xu)[http://gr.xjtu.edu.cn/web/zbxu] and co-supervised by <u><a href="{{https://gr.xjtu.edu.cn/zh/web/jiansun}}">Prof. Jian Sun</a>.</u>. My research interests include continual learning, online learning and image recognition. I received the Bachelor degree in school of science from Nanjing University of Science and Technology, China, in 2018.
+I am currently working toward the Ph.D. degree in the school of mathematics and statistics of Xi'an Jiaotong University, supervised by <u><a href="{{http://gr.xjtu.edu.cn/web/zbxu}}">Prof. Zongben Xu</a></u> and co-supervised by <u><a href="{{https://gr.xjtu.edu.cn/zh/web/jiansun}}">Prof. Jian Sun</a></u>. My research interests include continual learning, online learning and image recognition. I received the Bachelor degree in school of science from Nanjing University of Science and Technology, China, in 2018.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
