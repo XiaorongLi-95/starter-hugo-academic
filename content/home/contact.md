@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: lixiaorong@stu.xjtu.edu.cn
-  phone: 178 2902 5760
+  phone: 888 888 88
   address:
     street: 450 Serra Mall
     city: Stanford
