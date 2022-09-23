@@ -28,7 +28,7 @@ education:
     - course: PhD in Mathematics
       institution: Xi'an Jiaotong University
       year: 2018 - Current
-    - course: BSc in Information and Computational Science
+    - course: BS in Information and Computational Science
       institution: Nanjing University of Science and Technology
       year: 2014 - 2018
 
